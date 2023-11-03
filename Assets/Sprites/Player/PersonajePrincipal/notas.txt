@@ -1,0 +1,8 @@
+cambiar color de personaje a degradados de grises
+bordes de cabeza y cuerpo más finos
+
+animación de salto
+
+animación de correr izq
+
+animaciones de atacar
